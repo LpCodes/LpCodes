@@ -6,4 +6,4 @@
 <h4 align="center">[IndianPinCodes - Python Library for Indian Postal Codes](https://pypi.org/project/IndianPinCodes/) </h4>
 <h4 align="center">[LpImagesDownloader - Python Library for Downloading Images](https://pypi.org/project/LpImagesDownloader/) </h4>
 <h4 align="center">[file-encrypter-decrypter - Python Library for File Encryption and Decryption](https://pypi.org/project/file-encrypter-decrypter/) </h4>
-<p align="center"> I'm passionate about coding and love to learn new skills  </p>
+<h4 align="center"> I'm passionate about coding and love to learn new skills  </h4>
