@@ -11,3 +11,14 @@
 <p align="center"><a href="https://pypi.org/project/LpImagesDownloader/" style="font-size: 1.5em; color: #007ACC; text-decoration: none;">LpImagesDownloader - Python Library for Downloading Images</a></p>
 <p align="center"><a href="https://pypi.org/project/pycryptobox/" style="font-size: 1.5em; color: #007ACC; text-decoration: none;">pycryptobox - A Package for Safeguarding Your Confidential Data</a></p>
 <p align="center"><a href="https://pypi.org/project/pypackageinspector/" style="font-size: 1.5em; color: #007ACC; text-decoration: none;">pypackageinspector - Inspect Python Packages with Ease</a></p>
+<p align="center"><img src="https://img.shields.io/badge/Python-yellow?style=flat-square&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Pytest-green?style=flat-square&logo=Pytest&logoColor=white">
+<img src="https://img.shields.io/badge/Robot%20Framework-red?style=flat-square&logo=robot-framework&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/Selenium-brightgreen?style=flat-square&logo=selenium&logoColor=white">
+<img src="https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Bootstrap-purple?style=flat-square&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/Jinja-yellowgreen?style=flat-square&logo=jinja&logoColor=white">
+<img src="https://img.shields.io/badge/Flask-lightgrey?style=flat-square&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/Django-brightgreen?style=flat-square&logo=django&logoColor=white"></p>
