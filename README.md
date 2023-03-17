@@ -21,4 +21,10 @@
 <img src="https://img.shields.io/badge/Bootstrap-purple?style=flat-square&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/Jinja-yellowgreen?style=flat-square&logo=jinja&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-lightgrey?style=flat-square&logo=flask&logoColor=white">
-<img src="https://img.shields.io/badge/Django-brightgreen?style=flat-square&logo=django&logoColor=white"></p>
+<img src="https://img.shields.io/badge/Django-brightgreen?style=flat-square&logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/Wireless_Technologies-blue?style=flat-square&logo=Bluetooth&logoColor=white">
+<img src="https://img.shields.io/badge/Web_Scraping-green?style=flat-square&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/NB--IoT-blue?style=flat-square&logo=Arduino&logoColor=white">
+<img src="https://img.shields.io/badge/Unit_Testing-green?style=flat-square&logo=JUnit&logoColor=white">
+<img src="https://img.shields.io/badge/Open_Source_Contributor-yellow?style=flat-square&logo=GitHub&logoColor=white">
+</p>
