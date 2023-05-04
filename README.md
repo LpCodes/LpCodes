@@ -28,4 +28,4 @@
 <img src="https://img.shields.io/badge/Unit_Testing-green?style=flat-square&logo=JUnit&logoColor=white">
 <img src="https://img.shields.io/badge/Open_Source_Contributor-yellow?style=flat-square&logo=GitHub&logoColor=white">
 </p>
-<a href="https://info.flagcounter.com/ms6S"><img src="https://s11.flagcounter.com/count2/ms6S/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
