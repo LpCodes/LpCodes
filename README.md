@@ -12,6 +12,8 @@
 <p align="center"><a href="https://pypi.org/project/pycryptobox/" style="font-size: 1.5em; color: #007ACC; text-decoration: none;">pycryptobox - A Package for Safeguarding Your Confidential Data 🔐</a></p>
 <p align="center"><a href="https://pypi.org/project/pypackageinspector/" style="font-size: 1.5em; color: #007ACC; text-decoration: none;">pypackageinspector - Inspect Python Packages with Ease 👀</a></p>
 <p align="center"><img src="https://img.shields.io/badge/Python-yellow?style=flat-square&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-blue?style=flat-square&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Jenkins-red?style=flat-square&logo=jenkins&logoColor=white">
 <img src="https://img.shields.io/badge/Pytest-green?style=flat-square&logo=Pytest&logoColor=white">
 <img src="https://img.shields.io/badge/Robot%20Framework-red?style=flat-square&logo=robot-framework&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white">
