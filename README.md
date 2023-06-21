@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #007ACC; font-size: 3em;">Hi there, I'm LpCodes! 👋</h1>
+<h1 align="center" style="color: #007ACC; font-size: 3em;">Hi there, I'm Lp 👋</h1>
 <p align="center">I am a technology enthusiast from India,I enjoy working with cutting-edge technologies and exploring new possibilities. 🚀</p>
 <p align="center"><a href="https://github.com/lpcodes"><img src="https://img.shields.io/badge/Github-LpCodes-blue.svg?style=flat-square&logo=Github&logoColor=white"></a></p>
 <p align="center">My Github repositories are a reflection of my diverse interests and skills. From web development to automation and everything in between, I'm always experimenting with new ideas and exploring new possibilities. 🌟</p>
