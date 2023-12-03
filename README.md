@@ -1,50 +1,11 @@
-<h1 align="center">
-  Hi there, I'm Lp 👋
-</h1>
-
-<p align="center">
-  I am a technology enthusiast from India, and I enjoy working with cutting-edge technologies and exploring new possibilities. 🚀
-</p>
-
+<h1 align="center">Hi, I'm Lp 👋</h1>
+<p align="center">Tech enthusiast from India 🚀</p>
 <p align="center">
   <a href="https://github.com/lpcodes">
     <img src="https://img.shields.io/badge/Github-LpCodes-blue.svg?style=flat-square&logo=Github&logoColor=white" alt="GitHub">
   </a>
 </p>
-
-<p align="center">
-  My Github repositories are a reflection of my diverse interests and skills. From web development to automation and everything in between, I'm always experimenting with new ideas and exploring new possibilities. 🌟
-</p>
-
-<p align="center">
-  📫 If you have any questions or want to collaborate on a project, feel free to reach out to me on <a href="https://github.com/lpcodes">Github</a>. I'm always open to new opportunities and excited to connect with fellow developers. 🤝
-</p>
-
-<h3 align="center">
-  Take a look at some of my awesome projects! 😎
-</h3>
-
-<p align="center" style="font-size: 1.5em; color: #007ACC;">
-  <a href="https://lpc22.pythonanywhere.com/">SecureVault - A Flask Website for Secure Storage 🔒</a>
-</p>
-
-<p align="center" style="font-size: 1.5em; color: #007ACC;">
-  <a href="https://pypi.org/project/IndianPinCodes/">IndianPinCodes - Python Library for Indian Postal Codes 📬</a>
-</p>
-
-<p align="center" style="font-size: 1.5em; color: #007ACC;">
-  <a href="https://pypi.org/project/LpImagesDownloader/">LpImagesDownloader - Python Library for Downloading Images 📷</a>
-</p>
-
-<p align="center" style="font-size: 1.5em; color: #007ACC;">
-  <a href="https://pypi.org/project/pycryptobox/">pycryptobox - A Package for Safeguarding Your Confidential Data 🔐</a>
-</p>
-
-<p align="center" style="font-size: 1.5em; color: #007ACC;">
-  <a href="https://pypi.org/project/pypackageinspector/">pypackageinspector - Inspect Python Packages with Ease 👀</a>
-</p>
-
-<p align="center">
+<p align="center">Skills: 
   <img src="https://img.shields.io/badge/Python-yellow?style=flat-square&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-blue?style=flat-square&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Jenkins-red?style=flat-square&logo=jenkins&logoColor=white">
