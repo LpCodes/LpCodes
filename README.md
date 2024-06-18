@@ -1,6 +1,8 @@
 
 ![Header](./image.png)
 
+![Header](./2.gif)
+
 Welcome to my GitHub profile! 
 
 🚀 **About Me:**
