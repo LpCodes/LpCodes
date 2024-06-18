@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Header](./github-header-image.png)
 
 Welcome to my GitHub profile! 
@@ -35,3 +36,9 @@ Welcome to my GitHub profile!
   ![Wireless Technologies](https://img.shields.io/badge/Wireless_Technologies-blue?style=flat-square&logo=Bluetooth&logoColor=white)
 
 🤝 **Let's collaborate and build amazing things together! Feel free to explore my repositories and reach out for any collaboration or discussion.**
+=======
+# Hi, I'm Lp 👋
+
+🚀 **About Me:**
+- Lifelong learner exploring new technologies and frameworks.
+>>>>>>> 2513fbe7898abfe9d010876381e37fdd0be208d6
