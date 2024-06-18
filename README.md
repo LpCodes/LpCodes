@@ -1,4 +1,4 @@
-# Hi, I'm Lp 👋
+![Header](./github-header-image.png)
 
 Welcome to my GitHub profile! 
 
