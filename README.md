@@ -1,5 +1,5 @@
 
-![Header](./github-header-image.png)
+![Header](./image.png)
 
 Welcome to my GitHub profile! 
 
