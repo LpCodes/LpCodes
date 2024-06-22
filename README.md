@@ -13,7 +13,7 @@ Welcome to my GitHub profile!
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/8S_CuT8s2_oAAAAM/bruce-almighty-comedy.gif"  />
+
 
 ###
 
