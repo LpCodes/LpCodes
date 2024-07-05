@@ -1,7 +1,7 @@
 
-![Header](./image.png)
+![Header](./github-header-image.png)
 
-👋 Welcome to my GitHub profile! 
+<h4> <marquee>👋 Welcome to my GitHub profile! </marquee> </h4>
 
 
 
