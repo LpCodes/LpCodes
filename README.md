@@ -9,11 +9,6 @@
 
 <div align="center">
 
-  ### 📊 GitHub Stats
-  
-  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=LpCodes&show_icons=true&theme=radical&include_all_commits=true)
-
-
 
 
 
