@@ -1,11 +1,14 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+[L P];Welcome+to+my+profile!" alt="Typing SVG" />
-</p>
+<h1 align="center">Welcome to My Profile! 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B;I'm+L+P.;A+passionate+developer.;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
 
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" width="250" />
+</p>
 
   ### 🐍 Contribution 
   
