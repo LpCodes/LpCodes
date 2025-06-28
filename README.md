@@ -1,4 +1,3 @@
-<h1 align="center">Welcome to My Profile! 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B;I'm+L+P.;A+passionate+developer.;Welcome+to+my+GitHub!" alt="Typing SVG" />
