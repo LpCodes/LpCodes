@@ -24,13 +24,13 @@
   <img src="https://img.shields.io/badge/IoT-NB--IoT%20|%20GPS%20Trackers-00ACC1?style=for-the-badge&logoColor=white" alt="IoT Domain" />
 </p>
 
-  ### 🐍 Contribution 
+  <!-- ### 🐍 Contribution 
   
-  ![Snake animation](https://raw.githubusercontent.com/LpCodes/LpCodes/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/LpCodes/LpCodes/output/github-contribution-grid-snake.svg) -->
 
  ### 🐍 Contribution 
 
-<h2 align="center">🏓 Breakout: Smashing My Contributions 🏓</h2>
+
 
 <p align="center">
   <picture>
